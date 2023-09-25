@@ -1,0 +1,49 @@
+Ans 1>>>..features of html 5 are Semantic Elements. HTML5 introduced new semantic elements like <header>,
+ <nav>, <article>, <section>, <footer>, and <aside>.
+ Audio and Video Support, SVG Support ,Form Enhancements: HTML5 introduced new form elements like <input> types (email, url, date, 
+ number, etc.) and attributes
+  (required, placeholder, pattern, etc.) to simplify form validation and improve user experience.
+  Offline Web Applications:  the Web Storage API (localStorage and sessionStorage) to enable offline web applications.
+
+Ans 2 >>>>...HTML entities are special codes or sequences of characters used to represent reserved characters, symbols, or characters that have
+ special meaning in HTML and need to be displayed as text rather than interpreted as code. Here are five commonly used HTML entities:
+
+&lt; - Represents the less-than sign ("<"). This entity is used when you want to display a less-than sign without it being interpreted as the opening tag of an HTML element.
+
+&gt; - Represents the greater-than sign (">"). Similar to &lt;, this entity is used to display a greater-than sign as text rather than as the closing tag of an HTML element.
+
+&amp; - Represents the ampersand character ("&"). This entity is used when you want to display an ampersand character without it being interpreted as the beginning of an HTML entity.
+
+&quot; - Represents a double quotation mark ("). This entity is used to display double quotation marks within attributes of HTML elements or when you want to display them as text.
+
+&apos; - Represents a single quotation mark ('). While not as commonly used as  &quot;, this entity is used to display single quotation marks within attributes or as text.
+
+
+Ans 3 >>>...Accessibility in the context of web development refers to the practice of designing and building websites and web applications in a way
+ that ensures they can be used and understood by people with disabilities.
+ It aims to make digital content and services accessible to all, regardless of their physical or cognitive abilities. 
+
+Inclusivity and Equal Access: Accessible websites ensure that people with disabilities have equal access to information and services online
+
+Expanded Audience: Creating accessible websites broadens your audience. This isn't limited to people with disabilities; it also benefits elderly users, people using older technology or
+ slower internet connections, and those in noisy environments
+
+ Search Engine Optimization (SEO): Search engines, like Google, rank accessible websites higher in search results because they consider accessibility as a factor in their algorithms. 
+ Improved SEO can increase your website's visibility and reach.
+
+ 0egal Compliance: Many countries have laws requiring websites to be accessible, avoiding legal issues and
+promoting equal access.
+
+
+Ans4 >>>...Use Semantic HTM0 Elements: Using semantic HTML elements helps improve accessibility by providing
+meaningful structure to your content. Semantic elements like <header>, <nav>, <main>, <article>, and <footer>
+convey the purpose of different sections to assistive technologies, making it easier for users with disabilities to
+navigate and understand the content.
+
+Provide Descriptive Text and Alternative Text (Alt Text):
+For images, videos, and other non-text content, it's crucial to provide descriptive text or alternative text (alt text) that conveys the content or function of the element. 
+Alt text is especially important for users who rely on screen readers.
+
+Implement Keyboard Accessibility:
+Ensure that all interactive elements on your web page, such as links, buttons, and form controls, are accessible
+ via keyboard navigation. This is crucial for users who cannot use a mouse or other pointing devices
